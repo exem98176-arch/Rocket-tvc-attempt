@@ -2,8 +2,7 @@
 rocket tvc
 author: Sebastian (seb Sev)
 WE ARE GOING TO THE STARS
-AD ASTRA!!!!!!!!!!!!!!!!!
-:7/29/26
+AD ASTRA!!!!!!!!!!!!!!!!!:7/29/26
 ---
 
 
