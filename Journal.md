@@ -92,13 +92,15 @@ https://lapse.hackclub.com/timelapse/0Zy64VIpcPJq
 **Total time spent: 7mins**
 
 
-# June 8th: Got the screen to work!
+# July 18th: tvc cad work
 
-[actual journal content - what did you do?]
+worked on cadding the tvc part of next rocket 
+<img width="970" height="497" alt="image" src="https://github.com/user-attachments/assets/74f8519d-a0a2-487d-9266-ef950cd92d89" />
 
-[insert pictures of what you're working on!]
+https://lapse.hackclub.com/timelapse/acns3NteLvN-
+https://lapse.hackclub.com/timelapse/qPQUVid2wDLN
 
-**Total time spent: 2h**
+**Total time spent: 2.5h**
 
 
 
