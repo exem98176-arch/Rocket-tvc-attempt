@@ -7,7 +7,7 @@ AD ASTRA!!!!!!!!!!!!!!!!!:7/29/26
 
 
 trying to fix lapse glitch to find old files for retro active lapsing
-
+NOT ALL TIME WAS DOCUMENTED DUE TO NO ELECTRONIC NEAR TEST
 
 # June 20th: chemical rocket mixture 
 
@@ -64,22 +64,32 @@ https://lapse.hackclub.com/timelapse/G_1yKYwMCj_s
 
 
 
-# June 8th: Got the screen to work!
+# June 28th: fuse making
 
-[actual journal content - what did you do?]
+removed supports from 3d prints and made some solid fuse
+then filled rocket and testing
 
-[insert pictures of what you're working on!]
-
-**Total time spent: 2h**
+<img width="831" height="554" alt="image" src="https://github.com/user-attachments/assets/d3bc5111-8f51-4415-99f7-e5a7edafbd31" />
 
 
-# June 8th: Got the screen to work!
 
-[actual journal content - what did you do?]
+https://lapse.hackclub.com/timelapse/Kvz1LhZhBvd7
+https://lapse.hackclub.com/timelapse/OGvUEqRNRQC0
+https://lapse.hackclub.com/timelapse/Las8F61EQnhM
 
-[insert pictures of what you're working on!]
+**Total time spent: 40mins**
 
-**Total time spent: 2h**
+
+# June 29th: rocket test 3
+
+tested the micro rocket again today 
+
+<img width="480" height="377" alt="image" src="https://github.com/user-attachments/assets/3c322b57-38b1-485c-9dc8-db8901bf41e2" />
+
+
+https://lapse.hackclub.com/timelapse/0Zy64VIpcPJq
+
+**Total time spent: 7mins**
 
 
 # June 8th: Got the screen to work!
