@@ -102,5 +102,7 @@ https://lapse.hackclub.com/timelapse/qPQUVid2wDLN
 
 **Total time spent: 2.5h**
 
+# August 13th: Model rocket
 
+did some rocket testing will include video soon making more tests and new tvc lock nut tvc design
 
